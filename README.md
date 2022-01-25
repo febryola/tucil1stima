@@ -14,7 +14,7 @@ Menyelesaikan Word Search Puzzle Dengan Menggunakan Algoritma Brute-Force
 
 ## Setup and Requirements
 Program dapat dicompile di cmd ataupun di terminal teks editor seperti vs code dan akan menampilkan tampilan awal atau utama sebagai berikut
-<img src="image.png" />
+<img src="awal.jpg" />
 
 A `.txt` file is used as the input for the puzzle and keywords. The file should follow the pattern
 ```
