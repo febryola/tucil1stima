@@ -13,11 +13,8 @@ Menyelesaikan Word Search Puzzle Dengan Menggunakan Algoritma Brute-Force
   Program sederhana yang ditulis dalam C ini memecahkan teka-teki pencarian kata dengan algoritma brute-force. Ini pertama kali membaca melalui input file teks yang diberikan yang berisi matriks teka-teki dan kata kunci untuk ditemukan. Kemudian, ia melintasi semua huruf teka-teki satu per satu. Jika huruf pertama benar, maka akan memeriksa semua 8 arah angin (Timur, Tenggara, Selatan, dll.) untuk semua huruf yang tersisa. Diselesaikan dengan algoritma exhaustice search yang akan memeriksa semua kemungkinan yang ada pada puzzle.
 
 ## Setup and Requirements
-A system with a Windows OS is recommended. Running in a Linux-based system requires the input `.txt` files to be made from scratch in a Linux text editor because of the difference between a Windows to Linux newline.
-
-No additional requirements are needed to run the executable program file, but the <b>GCC compiler</b> is needed to re-compile the `main.c` file.
-
-To compile the program, simply run `compile.bat`.
+Program dapat dicompile di cmd ataupun di terminal teks editor seperti vs code dan akan menampilkan tampilan awal atau utama sebagai berikut
+<img src="image.png" />
 
 A `.txt` file is used as the input for the puzzle and keywords. The file should follow the pattern
 ```
@@ -48,4 +45,5 @@ VENUS
 Word search puzzle dapat dibuat sendiri pada link berikut ini <a href="https://randomwordgenerator.com/">random word generator</a> and <a href="https://tools.atozteacherstuff.com/word-search-maker/wordsearch.php">word search generator</a>.
 
 ## Contact
-This program was made by Ahmad Alfani Handoyo (13520023).
+This program was made by Febryola Kurnia Putri (13520140).
+email : 13520140@std.stei.itb.ac.id
